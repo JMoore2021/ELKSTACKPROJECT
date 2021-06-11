@@ -62,7 +62,7 @@ The playbook implements the following tasks:
 •	Increase the virtual memory
 •	Install and launch the Docker Elk Container using published ports:  5601:5601, 9200:9200, 5044:5044.  
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance.
-![image](ScreenShots/SSElkProjectELKDockerContainer.png)
+![image](ScreenShots/GitBashSSElkServerDockerContainer.png)
  
 The install_elk.yml playbook is duplicated below:  
 
